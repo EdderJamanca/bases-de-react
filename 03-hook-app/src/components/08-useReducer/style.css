@@ -1,0 +1,11 @@
+body {
+    margin: 70px;
+}
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.complete{
+    text-decoration: line-through;
+}
